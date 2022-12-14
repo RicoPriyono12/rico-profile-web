@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+section {
+  min-height: 420px;
+}
+
+.profil {
+  background-image: url(./img/background.jpg);
+  color: white;
+}
+
+.judul {
+  text-shadow: 2px solid black;
+}
